@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-window-manager": "^2.2.4",
+    "pako": "^2.1.0",
+    "robotjs": "^0.6.0"
+  }
+}
